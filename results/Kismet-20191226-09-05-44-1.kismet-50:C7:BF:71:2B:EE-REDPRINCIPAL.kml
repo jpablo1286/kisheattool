@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <GroundOverlay>
+      <Icon>
+        <href>REDPRINCIPAL.png</href>
+      </Icon>
+      <LatLonBox>
+        <north>3.8873145580291748</north>
+        <south>3.8870232105255127</south>
+        <east>-76.9733428955078125</east>
+        <west>-76.9737243652343750</west>
+        <rotation>0</rotation>
+      </LatLonBox>
+    </GroundOverlay>
+  </Folder>
+</kml>

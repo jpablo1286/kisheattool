@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <GroundOverlay>
+      <Icon>
+        <href>HP-Print-08-LaserJet 1102.png</href>
+      </Icon>
+      <LatLonBox>
+        <north>3.8880395889282227</north>
+        <south>3.8871150016784668</south>
+        <east>-76.9727935791015625</east>
+        <west>-76.9740142822265625</west>
+        <rotation>0</rotation>
+      </LatLonBox>
+    </GroundOverlay>
+  </Folder>
+</kml>

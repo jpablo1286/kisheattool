@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <GroundOverlay>
+      <Icon>
+        <href>WIFI VILLA ESTELA NODO.png</href>
+      </Icon>
+      <LatLonBox>
+        <north>3.8880341053009033</north>
+        <south>3.8872327804565430</south>
+        <east>-76.9728088378906250</east>
+        <west>-76.9739379882812500</west>
+        <rotation>0</rotation>
+      </LatLonBox>
+    </GroundOverlay>
+  </Folder>
+</kml>

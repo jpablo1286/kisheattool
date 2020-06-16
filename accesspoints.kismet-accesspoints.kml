@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <GroundOverlay>
+      <Icon>
+        <href>accesspoints.png</href>
+      </Icon>
+      <LatLonBox>
+        <north>3.8882672983164528</north>
+        <south>3.8865787016744311</south>
+        <east>-76.9726548880180985</east>
+        <west>-76.9742561118352029</west>
+        <rotation>0</rotation>
+      </LatLonBox>
+    </GroundOverlay>
+  </Folder>
+</kml>

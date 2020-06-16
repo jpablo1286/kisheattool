@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <GroundOverlay>
+      <Icon>
+        <href>ISTARED.png</href>
+      </Icon>
+      <LatLonBox>
+        <north>3.8875551223754883</north>
+        <south>3.8869400024414062</south>
+        <east>-76.9733963012695312</east>
+        <west>-76.9738311767578125</west>
+        <rotation>0</rotation>
+      </LatLonBox>
+    </GroundOverlay>
+  </Folder>
+</kml>
